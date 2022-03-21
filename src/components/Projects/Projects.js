@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import mail from "../../Assets/Projects/image2.jpg";
+import mail from "../../Assets/Projects/himalya.PNG";
 import editor from "../../Assets/Projects/Bluemercurry.PNG";
-import kettoimg from "../../Assets/Projects/image1.jpg";
+import kettoimg from "../../Assets/Projects/gymshark.jpg";
 import Aos from "aos";
 import "aos/dist/aos.css";
 function Projects() {
@@ -28,14 +28,14 @@ function Projects() {
             <ProjectCard
               imgPath={kettoimg}
               isBlog={false}
-              title="Plumgoodness Clone "
-              description="We have created a clone of e-commerce website Plumgoodness. And we have implemented all the functionality and features similar to real website."
-              link="https://github.com/Abhishekkp42/E-commerce-Plumgoodness"
+              title="GymShark Clone "
+              description="We have created a clone of e-commerce website GymShark. And we have implemented all the functionality and features similar to real website."
+              link="https://github.com/abhich21/Gymshark_FRONTEND_Unit4"
               tech=" HTML, CSS, JavaScript"
               duration=" 1 Week"
               Features="Sign-In/Sign-Up, Details of Products, SearchBar for Navigation"
               // linkmedium="https://avinashrexx.hashnode.dev/cloning-of-agoda-website"
-              linklive="https://plumgoodness-clone-rohit-2021.netlify.app/"
+              linklive="https://gymshark-team-shark.vercel.app/"
             />
           </Col>
 
@@ -43,13 +43,13 @@ function Projects() {
             <ProjectCard
               imgPath={mail}
               isBlog={false}
-              title="Tatacliq Clone"
+              title="Himalya Clone"
               duration=" 1 Week"
-              description="Cloned tatacliq is an Indian marketing e-commercial website, used by people to buy different kinds of clothing products.  "
+              description="Cloned Himalya is an USA products e-commercial website, used by people to buy different kinds of cosmetic products.  "
               tech=" HTML, CSS, JavaScript"
-              link="https://github.com/Abhishekkp42/tatacliq"
+              link="https://github.com/abhich21/Himalaya-clone"
               linkmedium=""
-              linklive="https://sleepy-scrubland-64819.herokuapp.com/home"
+              linklive="https://himalayacwproject.netlify.app/"
               Features=" Log-In/Sign-Up, Add to Cart and filter functionality "
             />
           </Col>

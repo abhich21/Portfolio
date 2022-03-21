@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import axios from "axios";
-import pdf from "../../Assets/Abhishek Singh.pdf";
+import pdf from "../../Assets/Abhishek_choudhary.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -50,7 +50,7 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Training</h3>
             <Resumecontent
-              title="MATLAB Industrial Training"
+              title="Kharagpur Railways HVDC Training"
               date="June 2018"
               content={[
                 "Attended a training session at Haldia Institute of technology on MATLAB.",
@@ -68,18 +68,18 @@ function Resume() {
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title=" B.Tech Electrical Engineering [ Haldia Institute of Technology      (MAKAUT),    West Bengal ] "
-              date="2015 - 2019"
-              content={["CGPA: 7.1"]}
+              date="2016 - 2020"
+              content={["CGPA: 7.2"]}
             />
             <Resumecontent
-              title="12TH BOARD [ Indian School of Learning, Dhanbad, Jharkhand. ]"
-              date="2014"
-              content={["Percentage: 76.2%"]}
+              title="12TH BOARD [ Titagarg Anglo Vernacular High School, Titagarh. ]"
+              date="2015"
+              content={["Percentage: 65.4%"]}
             />
             <Resumecontent
-              title="10TH BOARD [ DeNobili School, Dhanbad, Jharkhand ] "
-              date="2012"
-              content={["Precentage: 75.6%"]}
+              title="10TH BOARD [ Titagarg Anglo Vernacular High School, Titagarh. ] "
+              date="2013"
+              content={["Precentage: 69.7%"]}
             />
             {/* <h3 className="resume-title">Ranks and Achivements</h3> */}
             {/* <Resumecontent
