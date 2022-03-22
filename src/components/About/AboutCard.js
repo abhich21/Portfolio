@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Abhishek Choudhary </span>
             from <span className="purple"> Khardah, West Bengal, India.</span>
             <br /> I have completed my B.Tech in Electrical Engineering.
-            <br /> I am a passionate developer, a quick-learner, avid explorer
+            <br /> I am a  quick learner, a passionate developer, avid explorer
             and highly motivated person who is always curious to solve new
             challenges
             <br />I believe this will lay a sturdy foundation to my mushrooming

@@ -59,10 +59,10 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building websites &nbsp;
+              My field of Interest is building websites &nbsp;
               <i>
-                <b className="purple">for social cause</b> like
-                donations,teaching etc and also in areas related to{" "}
+                <b className="purple">for social causes</b> like
+                donations,teaching, etc and also in areas related to{" "}
                 <b className="purple">commercial living</b>
               </i>
               <br />
@@ -119,7 +119,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
                 <br /> <br />
-                <div>https://github.com/abhich21</div>
+                <div>abhich21</div>
               </li>
 
               <li className="social-icons">
@@ -132,7 +132,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
                 <br /> <br />
-                <div>https://www.linkedin.com/in/abhishek-choudhary-06856a230/</div>
+                <div>Abhishek Choudhary</div>
               </li>
             </ul>
             <h3>
